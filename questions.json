@@ -1,0 +1,9 @@
+[{"question_text": "What is the capital city of Nepal?",
+  "alternatives": ["Pokhara", "Kathmandu", "Dang", "Ilam"],
+  "correct_answer": 2},
+{"question_text": "What is the capital city of India?",
+ "alternatives": ["Delhi", "Mumbai", "Chennai", "Calcutta"],
+ "correct_answer": 1},
+{"question_text": "Who is the inventor of bulb?",
+ "alternatives": ["Thoma Edison", "Einstein", "Newton", "Henry"],
+ "correct_answer": 1}]
